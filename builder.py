@@ -65,6 +65,6 @@ class Builder:
         self.mod.add_function(func_name, return_type, args_type)
 
 
-path = "/home/ivan/workspace/projects/cpp/tests/PyBindTest"
+path = "path/to/c/project"
 a = Builder(path,"test_lib")
 a.build()
