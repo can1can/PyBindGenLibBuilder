@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/ivan/workspace/projects/python/lib_builder/build/lib.linux-x86_64-3.7/")
+sys.path.append("/path/to/build/lib/")
 import test_lib
 # test_lib
 test_lib.printer()
